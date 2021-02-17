@@ -18,4 +18,3 @@ pip install PYXInput
 
 Than run the script and you are ready to go.
 
-Run the .bat file.
