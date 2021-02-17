@@ -64,8 +64,10 @@ def main():
 
         elif keyboard.is_pressed('a'):
             move_true_left(Amiro)
+          
         elif keyboard.is_pressed('d'):
             move_true_right(Amiro)
+          
         elif keyboard.is_pressed('s'):
             move_backward(Amiro)
             reset_stick_x(Amiro)
