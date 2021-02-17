@@ -12,9 +12,8 @@ This script uses a Virtual controller to map WASD to a left joystick for double 
 https://github.com/shauleiz/vXboxInterface/releases
 
 second you have to open cmd and type:
-pip install keyboard
-and 
-pip install PYXInput
+1. pip install keyboard
+2. pip install PYXInput
 
-Than run the script and you are ready to go.
+Than run the python script and you are ready to go.
 
