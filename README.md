@@ -5,9 +5,9 @@ This script uses a Virtual controller to map WASD to a left joystick for double 
 
 # Installation
 
-## First you have to Installing this Virtual Bus that enables the user to plug-in virtual Xbox devices:
+#### First you have to install this Virtual Bus that enables the user to plug-in virtual Xbox devices:
 
-### Follow the instructions here: 
+###### Follow the instructions here: 
 
 https://github.com/shauleiz/vXboxInterface/releases
 
